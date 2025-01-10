@@ -12,3 +12,4 @@ C:\Users\nutca\Downloads\myFirstConsoleApplication\MyFirstConsoleApplication\obj
 C:\Users\nutca\Downloads\myFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.pdb
 C:\Users\nutca\Downloads\myFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.genruntimeconfig.cache
 C:\Users\nutca\Downloads\myFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\ref\MyFirstConsoleApplication.dll
+C:\Users\nutca\Downloads\myFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.sourcelink.json
